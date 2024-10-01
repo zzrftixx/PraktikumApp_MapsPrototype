@@ -4,7 +4,7 @@ Flutter project Desain Maps Prototype.
 ## Muh Andra Ariesfi
 ## NIM 362358302103
 
-<!-- <p> Laporan Praktikum Pemrograman Prangkat Bergerak </p> -->
+<p> Laporan Praktikum Pemrograman Prangkat Bergerak </p>
 
 #### Code Program
 
